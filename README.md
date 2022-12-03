@@ -1,1 +1,1 @@
-This repository is about coding-test practice
+This repository is study about coding-test practice
